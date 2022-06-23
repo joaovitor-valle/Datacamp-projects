@@ -1,3 +1,3 @@
 ### Objetivo
 
-Esse repositório tem como objetivo armazenar os projetos do Datacamp vistos como mais interessantes
+Esse repositório tem como objetivo armazenar os projetos realizados com o objetivo de praticar os conhecimentos de Data Science e Machine Learning
